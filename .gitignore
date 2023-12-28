@@ -5,4 +5,4 @@ node_modules
 dist
 
 # Ignore parcel's cache folder
-.cache
+.parcel-cache
