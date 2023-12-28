@@ -21,7 +21,7 @@ html {
 
 body {
   --container-width: min(calc(100vw - 32px), 760px);
-  padding: 4rem calc((100vw - var(--container-width)) / 2);
+  padding: calc(6.4rem + 4vh) calc((100vw - var(--container-width)) / 2);
 }
 
 caption,
